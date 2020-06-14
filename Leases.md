@@ -232,7 +232,7 @@ Key differences:
 - If head lease is short-term, then sublease should be an operating lease
   - Otherwise sublease is ROU asset arising from head lease
 
-### Accounting for Finance Lease
+### 1. Accounting for Finance Lease
 
 #### Recognition
 
@@ -266,7 +266,7 @@ Two types of finance leases:
   - **Cost of sales** = Cost of asset - PV of unguaranteed residual value
   - **Selling profit or loss** = Revenue - Cost of sales
 
-### Accounting for Operating Lease
+### 2. Accounting for Operating Lease
 
 - Leased **asset** on B/S
   - Amortized
